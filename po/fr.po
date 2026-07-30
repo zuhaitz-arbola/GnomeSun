@@ -1,0 +1,114 @@
+# GnomeSun — French translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "Élévation"
+
+msgid "Azimuth"
+msgstr "Azimut"
+
+msgid "Sunrise"
+msgstr "Lever du soleil"
+
+msgid "Sunset"
+msgstr "Coucher du soleil"
+
+msgid "Solar Noon"
+msgstr "Midi solaire"
+
+msgid "Day Length"
+msgstr "Durée du jour"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Coordinates not configured"
+msgstr "Coordonnées non configurées"
+
+msgid "Sun above horizon"
+msgstr "Soleil au-dessus de l'horizon"
+
+msgid "Sun below horizon"
+msgstr "Soleil sous l'horizon"
+
+msgid "Polar day (sun does not set)"
+msgstr "Jour polaire (le soleil ne se couche pas)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "Nuit polaire (le soleil ne se lève pas)"
+
+msgid "N"
+msgstr "N"
+
+msgid "S"
+msgstr "S"
+
+msgid "E"
+msgstr "E"
+
+msgid "W"
+msgstr "O"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Geographic Coordinates"
+msgstr "Coordonnées géographiques"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "Saisissez votre latitude et longitude en degrés décimaux."
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "Nord positif, sud négatif (−90 … +90)"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "Est positif, ouest négatif (−180 … +180)"
+
+msgid "General"
+msgstr "Général"
+
+msgid "Refresh"
+msgstr "Actualisation"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "Contrôle la fréquence de recalcul de la position solaire."
+
+msgid "Refresh interval (seconds)"
+msgstr "Intervale d'actualisation (secondes)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "Des valeurs plus basses augmentent légèrement l'usage du processeur"
+
+msgid "About"
+msgstr "À propos"
+
+msgid "Solar position tracker inspired by WMSun"
+msgstr "Suivi de la position solaire inspiré par WMSun"
+
+msgid "Credits"
+msgstr "Crédits"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "Idée originale d'Alberto Viniegra Ilarregi, créée avec Antigravity de Google et VSCodium"
+

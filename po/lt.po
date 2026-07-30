@@ -1,0 +1,114 @@
+# GnomeSun — Lithuanian translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: Lithuanian\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "Elevacija"
+
+msgid "Azimuth"
+msgstr "Azimutas"
+
+msgid "Sunrise"
+msgstr "Saulėtekis"
+
+msgid "Sunset"
+msgstr "Saulėlydis"
+
+msgid "Solar Noon"
+msgstr "Saulės vidurdienis"
+
+msgid "Day Length"
+msgstr "Dienos trukmė"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Coordinates not configured"
+msgstr "Koordinatės nekonfigūruotos"
+
+msgid "Sun above horizon"
+msgstr "Saulė virš horizonto"
+
+msgid "Sun below horizon"
+msgstr "Saulė žemiau horizonto"
+
+msgid "Polar day (sun does not set)"
+msgstr "Polarinė diena (saulė nenusileidžia)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "Polarinė naktis (saulė neteka)"
+
+msgid "N"
+msgstr "Š"
+
+msgid "S"
+msgstr "P"
+
+msgid "E"
+msgstr "R"
+
+msgid "W"
+msgstr "V"
+
+msgid "Location"
+msgstr "Vieta"
+
+msgid "Geographic Coordinates"
+msgstr "Geografinės koordinatės"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "Įveskite platumą ir ilgumą dešimtainiais laipsniais."
+
+msgid "Latitude"
+msgstr "Platuma"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "Šiaurė teigiama, pietūs neigiama (−90 … +90)"
+
+msgid "Longitude"
+msgstr "Ilguma"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "Rytai teigiama, vakarai neigiama (−180 … +180)"
+
+msgid "General"
+msgstr "Bendra"
+
+msgid "Refresh"
+msgstr "Atnaujinimas"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "Valdykite, jak dažnai perskaičiuojama saulės pozicija."
+
+msgid "Refresh interval (seconds)"
+msgstr "Atnaujinimo intervalas (sekundėmis)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "Mažesnės reikšmės šiek tiek padidina procesoriaus naudojimą"
+
+msgid "About"
+msgstr "Apie"
+
+msgid "Solar position tracker inspired by WMSun"
+msgstr "Saulės pozicijos sekiklis, įkvėptas WMSun"
+
+msgid "Credits"
+msgstr "Padėka"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "Originali Alberto Viniegra Ilarregi idėja, sukurta su Google Antigravity ir VSCodium"
+

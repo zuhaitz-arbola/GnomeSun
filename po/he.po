@@ -1,0 +1,114 @@
+# GnomeSun — Hebrew translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: Hebrew\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "גובה"
+
+msgid "Azimuth"
+msgstr "אזימוט"
+
+msgid "Sunrise"
+msgstr "זריחה"
+
+msgid "Sunset"
+msgstr "שקיעה"
+
+msgid "Solar Noon"
+msgstr "צהריים אמיתיים"
+
+msgid "Day Length"
+msgstr "אורך היום"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Coordinates not configured"
+msgstr "קואורדינטות לא מוגדרות"
+
+msgid "Sun above horizon"
+msgstr "השמש מעל האופק"
+
+msgid "Sun below horizon"
+msgstr "השמש מתחת לאופק"
+
+msgid "Polar day (sun does not set)"
+msgstr "יום קוטבי (השמש לא שוקעת)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "לילה קוטבי (השמש לא זורחת)"
+
+msgid "N"
+msgstr "צ"
+
+msgid "S"
+msgstr "ד"
+
+msgid "E"
+msgstr "מז"
+
+msgid "W"
+msgstr "מע"
+
+msgid "Location"
+msgstr "מיקום"
+
+msgid "Geographic Coordinates"
+msgstr "קואורדינטות גיאוגרפיות"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "הזן את קווי הרוחב והאורך במעלות עשרוניות."
+
+msgid "Latitude"
+msgstr "קו רוחב"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "צפון חיובי, דרום שלילי (−90 … +90)"
+
+msgid "Longitude"
+msgstr "קו אורך"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "מזרח חיובי, מערב שלילי (−180 … +180)"
+
+msgid "General"
+msgstr "כללי"
+
+msgid "Refresh"
+msgstr "רענון"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "קבע באיזו תדירות מיקום השמש מחושב מחדש."
+
+msgid "Refresh interval (seconds)"
+msgstr "מרווח רענון (שניות)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "ערכים נמוכים יותר מגדילים מעט את השימוש במעבד"
+
+msgid "About"
+msgstr "אודות"
+
+msgid "Solar position tracker inspired by WMSun"
+msgstr "מעקב אחר מיקום השמש בהשראת WMSun"
+
+msgid "Credits"
+msgstr "תודות"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "רעיון מקורי של אלברטו ויניאגרה אילארגי, נוצר באמצעות Google Antigravity ו-VSCodium"
+

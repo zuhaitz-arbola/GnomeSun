@@ -1,0 +1,111 @@
+# GnomeSun — Traditional Chinese translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: Traditional Chinese\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "仰角"
+
+msgid "Azimuth"
+msgstr "方位角"
+
+msgid "Sunrise"
+msgstr "日出"
+
+msgid "Sunset"
+msgstr "日落"
+
+msgid "Solar Noon"
+msgstr "太陽正午"
+
+msgid "Day Length"
+msgstr "白天長度"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Coordinates not configured"
+msgstr "尚未配置座標"
+
+msgid "Sun above horizon"
+msgstr "太陽在地平線上"
+
+msgid "Sun below horizon"
+msgstr "太陽在地平線下"
+
+msgid "Polar day (sun does not set)"
+msgstr "極晝 (太陽不落)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "極夜 (太陽不升)"
+
+msgid "N"
+msgstr "北"
+
+msgid "S"
+msgstr "南"
+
+msgid "E"
+msgstr "東"
+
+msgid "W"
+msgstr "西"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Geographic Coordinates"
+msgstr "地理座標"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "輸入您的十進位緯度和經度。"
+
+msgid "Latitude"
+msgstr "緯度"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "北緯為正，南緯為負 (−90 … +90)"
+
+msgid "Longitude"
+msgstr "經度"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "東經為正，西經為負 (−180 … +180)"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Refresh"
+msgstr "重新整理"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "控制重新計算太陽位置的頻率。"
+
+msgid "Refresh interval (seconds)"
+msgstr "重新整理間隔 (秒)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "較低的值會略微增加 CPU 使用率"
+
+msgid "About"
+msgstr "關於"
+
+msgid "Credits"
+msgstr "致謝"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "Alberto Viniegra Ilarregi 的原創創意，使用 Google 的 Antigravity 和 VSCodium 製作"
+

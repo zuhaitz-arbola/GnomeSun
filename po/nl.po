@@ -1,0 +1,114 @@
+# GnomeSun — Dutch translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: Dutch\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "Elevatie"
+
+msgid "Azimuth"
+msgstr "Azimut"
+
+msgid "Sunrise"
+msgstr "Zonsopkomst"
+
+msgid "Sunset"
+msgstr "Zonsondergang"
+
+msgid "Solar Noon"
+msgstr "Zonnemiddag"
+
+msgid "Day Length"
+msgstr "Daglengte"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Coordinates not configured"
+msgstr "Coördinaten niet geconfigureerd"
+
+msgid "Sun above horizon"
+msgstr "Zon boven de horizon"
+
+msgid "Sun below horizon"
+msgstr "Zon onder de horizon"
+
+msgid "Polar day (sun does not set)"
+msgstr "Pooldag (zon gaat niet onder)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "Poolnacht (zon komt niet op)"
+
+msgid "N"
+msgstr "N"
+
+msgid "S"
+msgstr "Z"
+
+msgid "E"
+msgstr "O"
+
+msgid "W"
+msgstr "W"
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Geographic Coordinates"
+msgstr "Geografische coördinaten"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "Voer uw breedtegraad en lengtegraad in decimale graden in."
+
+msgid "Latitude"
+msgstr "Breedtegraad"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "Noord positief, zuid negatief (−90 … +90)"
+
+msgid "Longitude"
+msgstr "Lengtegraad"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "Oost positief, west negatief (−180 … +180)"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "Bepaal hoe vaak de zonnestand opnieuw wordt berekend."
+
+msgid "Refresh interval (seconds)"
+msgstr "Vernieuwingsinterval (seconden)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "Lagere waarden verhogen het CPU-gebruik enigszins"
+
+msgid "About"
+msgstr "Over"
+
+msgid "Solar position tracker inspired by WMSun"
+msgstr "Zonnestand-tracker geïnspireerd op WMSun"
+
+msgid "Credits"
+msgstr "Credits"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "Origineel idee van Alberto Viniegra Ilarregi, gemaakt met Google's Antigravity en VSCodium"
+

@@ -1,0 +1,114 @@
+# GnomeSun — Czech translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: Czech\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "Výška"
+
+msgid "Azimuth"
+msgstr "Azimut"
+
+msgid "Sunrise"
+msgstr "Východ slunce"
+
+msgid "Sunset"
+msgstr "Západ slunce"
+
+msgid "Solar Noon"
+msgstr "Sluneční poledne"
+
+msgid "Day Length"
+msgstr "Délka dne"
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Coordinates not configured"
+msgstr "Souřadnice nejsou nakonfigurovány"
+
+msgid "Sun above horizon"
+msgstr "Slunce nad obzorem"
+
+msgid "Sun below horizon"
+msgstr "Slunce pod obzorem"
+
+msgid "Polar day (sun does not set)"
+msgstr "Polární den (slunce nezapadá)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "Polární noc (slunce nevychází)"
+
+msgid "N"
+msgstr "S"
+
+msgid "S"
+msgstr "J"
+
+msgid "E"
+msgstr "V"
+
+msgid "W"
+msgstr "Z"
+
+msgid "Location"
+msgstr "Poloha"
+
+msgid "Geographic Coordinates"
+msgstr "Zeměpisné souřadnice"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "Zadejte zeměpisnou šířku a délku v desetinných stupních."
+
+msgid "Latitude"
+msgstr "Zeměpisná šířka"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "Severní kladná, jižní záporná (−90 … +90)"
+
+msgid "Longitude"
+msgstr "Zeměpisná délka"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "Východní kladná, západní záporná (−180 … +180)"
+
+msgid "General"
+msgstr "Obecné"
+
+msgid "Refresh"
+msgstr "Aktualizace"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "Řídí, jak často se přepočítává poloha slunce."
+
+msgid "Refresh interval (seconds)"
+msgstr "Interval aktualizace (sekundy)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "Nižší hodnoty mírně zvyšují využití procesoru"
+
+msgid "About"
+msgstr "O aplikaci"
+
+msgid "Solar position tracker inspired by WMSun"
+msgstr "Sledování polohy slunce inspirované WMSun"
+
+msgid "Credits"
+msgstr "Zásluhy"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "Původní nápad: Alberto Viniegra Ilarregi, vytvořeno pomocí Google Antigravity a VSCodium"
+

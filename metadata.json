@@ -1,0 +1,10 @@
+{
+    "uuid": "gnomesun@ortzi.org",
+    "name": "GnomeSun",
+    "description": "Solar position tracker inspired by Window Maker's WMSun. Displays real-time solar azimuth, elevation, sunrise/sunset times using local astronomical calculations.",
+    "shell-version": ["46"],
+    "version": 1,
+    "url": "https://ortzi.org/gnomesun",
+    "settings-schema": "org.gnome.shell.extensions.gnomesun",
+    "gettext-domain": "gnomesun"
+}

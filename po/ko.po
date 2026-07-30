@@ -1,0 +1,114 @@
+# GnomeSun — Korean translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "고도"
+
+msgid "Azimuth"
+msgstr "방위각"
+
+msgid "Sunrise"
+msgstr "일출"
+
+msgid "Sunset"
+msgstr "일몰"
+
+msgid "Solar Noon"
+msgstr "태양 정오"
+
+msgid "Day Length"
+msgstr "낮 길이"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Coordinates not configured"
+msgstr "좌표가 설정되지 않았습니다"
+
+msgid "Sun above horizon"
+msgstr "태양이 지평선 위에 있습니다"
+
+msgid "Sun below horizon"
+msgstr "태양이 지평선 아래에 있습니다"
+
+msgid "Polar day (sun does not set)"
+msgstr "백야 (해 안 짐)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "극야 (해 안 뜸)"
+
+msgid "N"
+msgstr "북"
+
+msgid "S"
+msgstr "남"
+
+msgid "E"
+msgstr "동"
+
+msgid "W"
+msgstr "서"
+
+msgid "Location"
+msgstr "위치"
+
+msgid "Geographic Coordinates"
+msgstr "지리적 좌표"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "십진수 형식으로 위도와 경도를 입력하십시오."
+
+msgid "Latitude"
+msgstr "위도"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "북위는 양수, 남위는 음수 (−90 … +90)"
+
+msgid "Longitude"
+msgstr "경도"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "동경은 양수, 서경은 음수 (−180 … +180)"
+
+msgid "General"
+msgstr "일반"
+
+msgid "Refresh"
+msgstr "새로고침"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "태양 위치 재계산 주기를 조절합니다."
+
+msgid "Refresh interval (seconds)"
+msgstr "새로고침 주기 (초)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "값이 작을수록 CPU 사용량이 약간 증가합니다"
+
+msgid "About"
+msgstr "정보"
+
+msgid "Solar position tracker inspired by WMSun"
+msgstr "WMSun에서 영감을 받은 태양 위치 추적기"
+
+msgid "Credits"
+msgstr "크레딧"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "Alberto Viniegra Ilarregi의 독창적인 아이디어, Google의 Antigravity 및 VSCodium으로 제작됨"
+

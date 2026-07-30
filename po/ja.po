@@ -1,0 +1,114 @@
+# GnomeSun — Japanese translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "仰角"
+
+msgid "Azimuth"
+msgstr "方位角"
+
+msgid "Sunrise"
+msgstr "日の出"
+
+msgid "Sunset"
+msgstr "日の入り"
+
+msgid "Solar Noon"
+msgstr "南中時刻"
+
+msgid "Day Length"
+msgstr "昼の長さ"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Coordinates not configured"
+msgstr "座標が未設定です"
+
+msgid "Sun above horizon"
+msgstr "太陽が地平線上にあります"
+
+msgid "Sun below horizon"
+msgstr "太陽が地平線下にあります"
+
+msgid "Polar day (sun does not set)"
+msgstr "白夜 (太陽が沈みません)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "極夜 (太陽が昇りません)"
+
+msgid "N"
+msgstr "北"
+
+msgid "S"
+msgstr "南"
+
+msgid "E"
+msgstr "東"
+
+msgid "W"
+msgstr "西"
+
+msgid "Location"
+msgstr "位置情報"
+
+msgid "Geographic Coordinates"
+msgstr "地理座標"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "緯度と経度を十進法で入力してください。"
+
+msgid "Latitude"
+msgstr "緯度"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "北緯はプラス、南緯はマイナス (−90 … +90)"
+
+msgid "Longitude"
+msgstr "経度"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "東経はプラス、西経はマイナス (−180 … +180)"
+
+msgid "General"
+msgstr "全般"
+
+msgid "Refresh"
+msgstr "更新"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "太陽位置の再計算間隔を設定します。"
+
+msgid "Refresh interval (seconds)"
+msgstr "更新間隔 (秒)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "間隔を短くするとCPU使用率がわずかに上昇します"
+
+msgid "About"
+msgstr "この拡張機能について"
+
+msgid "Solar position tracker inspired by WMSun"
+msgstr "WMSunにインスパイアされた太陽位置トラッカー"
+
+msgid "Credits"
+msgstr "クレジット"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "Alberto Viniegra Ilarregi によるオリジナルアイデア、Google の Antigravity と VSCodium で開発"
+

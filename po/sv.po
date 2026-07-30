@@ -1,0 +1,114 @@
+# GnomeSun — Swedish translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: Swedish\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "Elevation"
+
+msgid "Azimuth"
+msgstr "Azimut"
+
+msgid "Sunrise"
+msgstr "Soluppgång"
+
+msgid "Sunset"
+msgstr "Solnedgång"
+
+msgid "Solar Noon"
+msgstr "Solmiddag"
+
+msgid "Day Length"
+msgstr "Daglängd"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Coordinates not configured"
+msgstr "Koordinater har inte konfigurerats"
+
+msgid "Sun above horizon"
+msgstr "Sol över horisonten"
+
+msgid "Sun below horizon"
+msgstr "Sol under horisonten"
+
+msgid "Polar day (sun does not set)"
+msgstr "Polardag (solen går inte ner)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "Polarnatt (solen går inte upp)"
+
+msgid "N"
+msgstr "N"
+
+msgid "S"
+msgstr "S"
+
+msgid "E"
+msgstr "Ö"
+
+msgid "W"
+msgstr "V"
+
+msgid "Location"
+msgstr "Plats"
+
+msgid "Geographic Coordinates"
+msgstr "Geografiska koordinater"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "Ange din latitud och longitud i decimalgrader."
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "Nord positiv, syd negativ (−90 … +90)"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "Öst positiv, väst negativ (−180 … +180)"
+
+msgid "General"
+msgstr "Allmänt"
+
+msgid "Refresh"
+msgstr "Uppdatering"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "Styr hur ofta solens position beräknas."
+
+msgid "Refresh interval (seconds)"
+msgstr "Uppdateringsintervall (sekunder)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "Lägre värden ökar CPU-användningen något"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Solar position tracker inspired by WMSun"
+msgstr "Solpositionstracker inspirerad av WMSun"
+
+msgid "Credits"
+msgstr "Medverkande"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "Originalidé av Alberto Viniegra Ilarregi, skapad med Googles Antigravity och VSCodium"
+

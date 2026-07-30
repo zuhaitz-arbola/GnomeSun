@@ -1,0 +1,79 @@
+/* GnomeSun — GNOME Shell Extension Stylesheet */
+
+/* Panel icon container */
+.gnomesun-panel-icon {
+    margin: 0 2px;
+}
+
+/* Popup menu sky dome diagram */
+.gnomesun-sky-dome {
+    margin: 8px 12px;
+    border-radius: 8px;
+}
+
+/* Info rows inside the popup */
+.gnomesun-info-box {
+    padding: 4px 16px 8px 16px;
+    spacing: 4px;
+}
+
+.gnomesun-info-row {
+    spacing: 8px;
+}
+
+.gnomesun-info-label {
+    font-weight: bold;
+    font-size: 14px;
+    color: #9da4b0;
+    min-width: 140px;
+}
+
+.gnomesun-info-value {
+    font-size: 14px;
+    color: #ffffff;
+    font-variant-numeric: tabular-nums;
+}
+
+/* Status label shown when coordinates are unconfigured */
+.gnomesun-status-label {
+    font-size: 14px;
+    color: #e8a44a;
+    padding: 16px 20px;
+    text-align: center;
+}
+
+/* Header label inside the popup */
+.gnomesun-header {
+    font-size: 14px;
+    font-weight: bold;
+    color: #c8cdd3;
+    padding: 8px 16px 2px 16px;
+}
+
+/* Separator line styling */
+.gnomesun-separator {
+    background-color: rgba(255, 255, 255, 0.08);
+    height: 1px;
+    margin: 4px 12px;
+}
+
+/* Day/night status badge */
+.gnomesun-day-badge {
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.12);
+    margin: 0 16px 4px 16px;
+}
+
+.gnomesun-night-badge {
+    font-size: 14px;
+    font-weight: bold;
+    color: #b0b4bc;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.06);
+    margin: 0 16px 4px 16px;
+}

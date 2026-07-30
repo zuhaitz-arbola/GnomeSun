@@ -1,0 +1,114 @@
+# GnomeSun — Turkish translation
+# Copyright (C) 2026 ortzi.org
+# This file is distributed under the same license as the GnomeSun package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnomesun 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2026-07-17 18:00+0200\n"
+"Last-Translator: Alberto Viniegra Ilarregi <gnomesun@ortzi.org>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Elevation"
+msgstr "Yükseklik"
+
+msgid "Azimuth"
+msgstr "Azimut"
+
+msgid "Sunrise"
+msgstr "Gün doğumu"
+
+msgid "Sunset"
+msgstr "Gün batımı"
+
+msgid "Solar Noon"
+msgstr "Solar öğle"
+
+msgid "Day Length"
+msgstr "Gün süresi"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Coordinates not configured"
+msgstr "Koordinatlar ayarlanmadı"
+
+msgid "Sun above horizon"
+msgstr "Güneş ufkun üstünde"
+
+msgid "Sun below horizon"
+msgstr "Güneş ufkun altında"
+
+msgid "Polar day (sun does not set)"
+msgstr "Kutup günü (güneş batmaz)"
+
+msgid "Polar night (sun does not rise)"
+msgstr "Kutup gecesi (güneş doğmaz)"
+
+msgid "N"
+msgstr "K"
+
+msgid "S"
+msgstr "G"
+
+msgid "E"
+msgstr "D"
+
+msgid "W"
+msgstr "B"
+
+msgid "Location"
+msgstr "Konum"
+
+msgid "Geographic Coordinates"
+msgstr "Coğrafi Koordinatlar"
+
+msgid "Enter your latitude and longitude in decimal degrees."
+msgstr "Enlem ve boylamınızı ondalık derece olarak girin."
+
+msgid "Latitude"
+msgstr "Enlem"
+
+msgid "North positive, south negative (−90 … +90)"
+msgstr "Kuzey pozitif, güney negatif (−90 … +90)"
+
+msgid "Longitude"
+msgstr "Boylam"
+
+msgid "East positive, west negative (−180 … +180)"
+msgstr "Doğu pozitif, batı negatif (−180 … +180)"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Refresh"
+msgstr "Yenileme"
+
+msgid "Control how often the solar position is recalculated."
+msgstr "Güneş konumunun ne sıklıkla yeniden hesaplanacağını kontrol edin."
+
+msgid "Refresh interval (seconds)"
+msgstr "Yenileme aralığı (saniye)"
+
+msgid "Lower values increase CPU usage slightly"
+msgstr "Düşük değerler CPU kullanımını hafifçe artırır"
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "Solar position tracker inspired by WMSun"
+msgstr "WMSun'dan esinlenen güneş konumu takipçisi"
+
+msgid "Credits"
+msgstr "Katkıda Bulunanlar"
+
+msgid "Original idea by Alberto Viniegra Ilarregi, created with Google's Antigravity and VSCodium"
+msgstr "Alberto Viniegra Ilarregi'nin özgün fikri, Google Antigravity ve VSCodium ile oluşturuldu"
+
